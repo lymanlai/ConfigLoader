@@ -24,4 +24,4 @@ const ConfigLoader = {
   }
 }
 
-export default ConfigLoader
+module.exports = ConfigLoader
